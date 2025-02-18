@@ -9,37 +9,37 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/Sofia
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Meowbeard's Blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: A mix of daily thoughts, photos, Minecraft Maps and maybe some baking! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A Personal blog sharing, sharing day-to-day thoughts, progress on Minecraft map projects, and creative explorations in photography and cooking. 
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "htpps://meowbeard.com"
 
 github:
-  username: github_username # change to your GitHub username
+  username: meaowbeard # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+#twitter:
+#  username: meowbeard # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Meowbeard
+  email: contact@meowbeard.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://bsky.app/profile/meowbeard.com
+    - https://github.com/meaowbeard # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://cdn.bsky.app/img/avatar/plain/did:plc:srtchdggsen74i7dmzbw3djn/bafkreih2mtlx2skyigude7xplmhn2cjqh47eeyt5yh6odf2wmk6y7454qm@jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

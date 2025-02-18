@@ -22,7 +22,7 @@ Recipes, photos, and stories about my baking experiments—sometimes a success, 
 
 ## License
 
-This work is published under [MIT][mit] License.
+[Jekyll](https://jekyllrb.com/) and [Chirpy Theme](https://github.com/cotes2020/jekyll-theme-chirpy/), both licensed under the [MIT][mit] License.
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/

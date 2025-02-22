@@ -4,7 +4,7 @@ title: 9 Tips to Instantly Improve your Minecraft Builds | My First Blog Post!
 date: 2025-02-18 15:37 +0200
 last_modified_at: 2025-02-22 01:45:00 +0200
 categories: [Personal, Minecraft]
-tags: [personal, minecraft, building, tutorial]
+tags: [personal, minecraft, building, tutorial, gaming]
 image: "https://i.imgur.com/3tJSiaN.jpg"
 ---
 
@@ -53,7 +53,8 @@ create my own palettes because the presets on that website rarely capture the vi
 
 > ##### Experiment!
 Experiment with these tools, don't be afraid to try your own ideas and develop your own style! Feel stuck?
-Look up some inspirational images on websites like Pinterest! The right block palette can make all the difference a build.
+Look up some inspirational images on websites like Pinterest! The right block palette can make all the
+difference in a build.
 {: .prompt-tip }
 
 ### **3. The Shape of your Build**

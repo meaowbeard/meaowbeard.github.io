@@ -1,7 +1,11 @@
 #  The contact options.
 - type: bluesky
   icon: 'fa-brands fa-bluesky'
-  url: 'https://bsky.app/profile/meowbeard.com'                   # Fill with your Bluesky profile link
+  url: 'https://bsky.app/profile/meowbeard.com'
+
+- type: ko-fi
+  icon: 'fas fa-coffee'
+  url: 'https://ko-fi.com/meowbeard'
 
 - type: github
   icon: "fab fa-github"

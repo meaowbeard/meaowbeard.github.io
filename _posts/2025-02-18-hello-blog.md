@@ -3,7 +3,7 @@ layout: post
 title: 9 Tips to Instantly Improve your Minecraft Builds | My First Blog Post!
 date: 2025-02-18 15:37 +0200
 last_modified_at: 2025-02-22 01:45:00 +0200
-categories: [Gaming, Minecraft]
+categories: [Games, Minecraft]
 tags: [personal, minecraft, building, tutorial, gaming]
 image: "https://i.imgur.com/3tJSiaN.jpg"
 ---

@@ -9,7 +9,7 @@ tags:
 - gaming
 - review
 image: https://i.imgur.com/wr952K5.jpg
-date: 2025-02-25 00:00 +0200
+date: 2025-02-26 23:26 +0200
 
 ---
 Before I share my thoughts on the Gothic Remake Demo, I wanted to share a bit obout my personal history with the Gothic franchise - a series

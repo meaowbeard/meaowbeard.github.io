@@ -57,7 +57,7 @@ Mixing the dry ingredients is straightforward. I simply sifted the flour and bak
 
 #### Combing the Ingredients
 Next, I gently poured the sifted dry ingredients into the egg mixture and used a hand whisk to fold them until just combined. After that, I added
-the oil, butter, milk and vanilla essence, whisking until you have a homogenous batter.
+the oil, butter, milk and vanilla essence, whisking until a homogenous batter.
 
 ![Combined-Ingredients](https://i.imgur.com/UOlFakV.jpg)
 
@@ -88,7 +88,7 @@ I started by beating the softened butter with a hand mixer until it was smooth a
 
 Next, I added the cream cheese and mascarpone, blending everything together until it was silky smooth. If the frosting felt too thick, I had a splash of milk on standby to adjust the texture.
 
-At this point, the frosting was ready to go! Feel free to tweak it depending on your taste—just don’t make it too runny, or it’ll be hard to spread on the cake.
+At this point, the frosting was ready to go! Feel free to tweak it depending on your taste - just don’t make it too runny, or it’ll be hard to spread on the cake.
 
 ![Frosting](https://i.imgur.com/OEwiWsS.jpg)
 
@@ -108,8 +108,8 @@ between the layers before stacking them.
 ![FrostingCake](https://i.imgur.com/tYpOeDc.jpg)
 
 ### The Red Squares
-For the little red squares on top of the cake, I originally planned to make them using fresh raspberries, sugar, and gelatin. But since it’s not raspberry season,
-I ended up using some homemade raspberry jam my mom made last year instead. Honestly, I it worked out pretty well!
+For the little red squares on top of the cake, I originally planned to make them using fresh raspberries, sugar, and gelatin. But since it’s not raspberry season apparently,
+I ended up using some homemade raspberry jam my mom made last year instead. Honestly, I think it worked out pretty well!
 
 #### Ingredients
 - Raspberry Jam (home made or store-bought, preferably without seeds)

@@ -74,6 +74,8 @@ temperature to 150°C (302°F) for better results.
 ![Finished-Cake-Base](https://i.imgur.com/0e3ZG6r.jpg)
 
 ### The Frosting
+For the frosting, I went with a mix of butter, mascarpone, and cream cheese for a rich, creamy texture. Here’s what I used:
+
 #### Ingredients
 - 220 grams of butter (softened, but not liquid!)
 - 150 grams of powdered sugar
@@ -82,58 +84,59 @@ temperature to 150°C (302°F) for better results.
 - 1 tsp of vanilla extract (optional)
 - A splash of milk (only if needed, to adjust consistence)
 
-> If you don't have creamy cottage cheese, you can replace it for mascaropone or cream cheese - both of them can add richness to the frosting and a slight tangy flavour!
-{: .prompt-info }
+I started by beating the softened butter with a hand mixer until it was smooth and fluffy. Then, I slowly added the powdered sugar, mixing well to avoid any lumps.
 
-#### Instructions
-1. Beat the softened butter with a hand mixer until smooth and fluffy.
-2. Gradually add the powdered sugar, mixing well.
-3. Add the cream cheese and mascarpone, mixing well until fully combined and smooth.
-5. If the frosting is too thick, add a small splash of milk to adjust the texture.
+Next, I added the cream cheese and mascarpone, blending everything together until it was silky smooth. If the frosting felt too thick, I had a splash of milk on standby to adjust the texture.
 
-Feel free to modify the frosting as you like, just make sure it's not too runny!
+At this point, the frosting was ready to go! Feel free to tweak it depending on your taste—just don’t make it too runny, or it’ll be hard to spread on the cake.
 
 ![Frosting](https://i.imgur.com/OEwiWsS.jpg)
 
 ### Assembling the Cake
+Now comes the fun part - putting everything together!
+
 1. Layering the cake & applying the frosting
-- If your cake batter turns out to be too much for your pan, you might need to bake it in 2 batches.
-- If you end up with 2 cake layers, spread a thin layer of frosting between them before stacking
+- If your cake batter turned out to be too much for one pan, you might have baked it in two batches. In that case, just spread a thin layer of frosting
+between the layers before stacking them.
 - If you baked a single thick cake, you can cut it into two layers.
+- Once you have your layers ready, place the bottom one on your serving plate and spread a layer of frosting on top before adding the second layer.
 2. Applying the frosting
-- Start with a spoon to scoop the frosting onto the top and sides of the cake.
-- Use an offset spatula (or a knife) to gently spread and smooth the frosting.
+- Scoop some frosting onto the top and sides of the cake using a spoon.
+- Use an offset spatula (or just a knife) to gently spread and smooth the frosting.
 - It might not be perfectly smooth, but that's totally fine!
 
 ![FrostingCake](https://i.imgur.com/tYpOeDc.jpg)
 
 ### The Red Squares
+For the little red squares on top of the cake, I originally planned to make them using fresh raspberries, sugar, and gelatin. But since it’s not raspberry season,
+I ended up using some homemade raspberry jam my mom made last year instead. Honestly, I it worked out pretty well!
+
 #### Ingredients
 - Raspberry Jam (home made or store-bought, preferably without seeds)
 - 1 tbsp of lemon juice
 - 1-2 tbsp of Gelatin Powder
 - 3 tbsp of warm water (to disolve the gelatin)
 
-#### Instructions
-1. In a small bowl, mix the raspberry jam with lemon juice until smooth.
-2. Disolve the gelatin powder in the warm water and let it bloom for about 5 minutes.
-3. Gently heat the gelatin mixture until the gelatin disolves. I usually just microwave it for like 10 seconds.
-4. Stir the disollved gelatin into the jam mixture until well combined.
-5. Pour the mixture into a small, flat container or parchment-lined pan to create an even layer.
-6. Place it in the fridge for about an hour or until it's fully set.
-7. Once firm, use a sharp knife to cut out the small squares, just like the Minecraft cake.
-8. Carefully place the squares on top of your frosted cake!
+#### How I made Them
+1. I scooped some of the raspberry jam into a bowl and mixed it with some lemon juice.
+2. In a separate small bowl, I sprinkled the gelatin with some warm water and let it sit for about 5 minutes to bloom.
+3. Then, I microwaved the gelatin mixture for about 10 seconds, just enough to fully disolve it.
+4. After that, I stirred the gelatin into the jam mixture until it was well combined.
+5. I poured it into a small, flat container (you can use a parchment-lined pan too) and spread it out evenly.
+6. I put it into the fridge for about an hour, until it was firm.
+7. Once set and firm, I grabbed a sharp knife and cut out the little squares, trying to match the look of the Minecraft cake.
+8. Finally, I carefully placed them on top of the frosted cake.
 
-> **Pro tip:** if the squares feel too soft while cuytting, try putting them in the freezer for about 10 minutes and try again.
+I slightly messed up one of the red squares in the middle, but that's okay.
+
+> **Pro tip:** if the squares feel too soft while cutting, try putting them in the freezer for about 10 minutes and try again.
 {: .prompt-tip }
 
 ![FinishedCake](https://i.imgur.com/vcSTuly.jpg)
-I slightly messed up one of the red squares in the middle, but that's okay.
 
 # Final Thoughts
 Thank you for reading my blog post! I hope you enjoyed following along with my baking experiment. If you decide to make the
-Minecraft cake for yourself - good luck! I think it turned out pretty nicely. I had a blast making it for family and some friends and seeing their
-reactions made it all worthwhile.
+Minecraft cake for yourself - good luck! I think it turned out pretty nicely. I had a blast making it for family and some friends and seeing their reactions made it all worthwhile.
 
 Stay safe and keep baking!
 

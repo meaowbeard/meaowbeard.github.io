@@ -157,3 +157,8 @@ If you found any of these tips helpful, please let me know! I'd love to hear wha
 Also, if you have your own favourite building tricks, feel free to share them!
 
 Stay safe and good luck with your builds!
+---
+
+If you enjoy what I do, consider supporting me on Ko-fi! Every little bit means the world!
+
+<a href='https://ko-fi.com/I3I67XGZM' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>

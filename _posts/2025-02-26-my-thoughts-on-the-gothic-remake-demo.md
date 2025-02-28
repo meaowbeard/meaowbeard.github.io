@@ -248,15 +248,14 @@ impacted the results and I didn't test the settings under identical in-game cond
 - 1% low framerate   :   47.4 FPS
 - 0.1% low framerate :    3.7 FPS
 
-
-**Visit the Gothic Remake [Official Website](https://gothic.thqnordic.com/)**
-
 ## Conclusion
 Gothic Remake seems to be heading in the right direction. The tone and world design so far feel authentic to the original Gothic. Some characters are skeptical, while others come across as friendly and genuine.
 
 With that said, the demo isn't without its flaws. I noticed performance issues like stuttering, flickering on the character faces, sluggish animations and some unresponsive AI. These issues are concerning, but I hope it's just the demo and that the developers will have plenty of time to fine-tune the experience before launch.
 
 Overall, I remain optimistic about the direction the remake is taking. I really hope the final product fixes all the technical issues from the demo and preserves the spirit of the original game. I can't wait to play the game once it's fully released.
+
+**Visit the Gothic Remake [Official Website](https://gothic.thqnordic.com/)**
 
 ---
 
